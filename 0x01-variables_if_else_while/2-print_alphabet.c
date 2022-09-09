@@ -14,5 +14,6 @@ int main(void)
 		putchar(alphabet);
 		alphabet++;
 	}
+	printf("\n")
 	return (0);
 }
