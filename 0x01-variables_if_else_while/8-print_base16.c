@@ -8,6 +8,7 @@
 
 int main(void)
 {
+	char alphabet = 'a';
 	int digit = 0;
 
 	while (digit < 10)
@@ -15,9 +16,6 @@ int main(void)
 		putchar(digit + 48);
 		digit++;
 	}
-
-	char alphabet = 'a';
-
 	while (alphabet <= 'f')
 	{
 		putchar(alphabet);
