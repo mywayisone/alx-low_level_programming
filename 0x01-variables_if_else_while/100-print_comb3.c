@@ -21,10 +21,10 @@ int main(void)
 				putchar(j + 48);
 				putchar(',');
 				putchar(' ');
-				i++;
-				j++;
 			}
+			j++;
 		}
+		i++;
 	}
 	putchar('\n');
 	return (0);
