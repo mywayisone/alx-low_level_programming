@@ -15,6 +15,7 @@ int main(void)
 		putchar(digit + 48);
 		putchar(',');
 		putchar(' ');
+		digit++;
 	}
 	putchar('\n');
 	return (0);
