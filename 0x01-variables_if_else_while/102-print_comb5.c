@@ -29,7 +29,7 @@ int main(void)
 						putchar(i + 48);
 						putchar(j + 48);
 						putchar(' ');
-						putcahr(k + 48);
+						putchar(k + 48);
 						putchar(l + 48);
 						if (i + j + l + k != 9 + 8 + 7 + 6)
 						{
