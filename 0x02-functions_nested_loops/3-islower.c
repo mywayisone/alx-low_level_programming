@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * islower - checks for lower case character
+ * _islower - checks for lower case character
  *
- * Returns: 0 (success)
- * 1 otherwise
+ * Return: 0 (success) and 1 (otherwise)
+ * 
+ * c: parameter for the function
  */
 
 int _islower(int c)
