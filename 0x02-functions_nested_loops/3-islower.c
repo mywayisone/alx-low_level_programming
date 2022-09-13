@@ -2,10 +2,8 @@
 
 /**
  * _islower - checks for lower case character
- *
- * Return: 0 (success) and 1 (otherwise)
- * 
- * c: parameter for the function
+ * @c: parameters
+ * Return: 0 (success) and 1 (otherwise)0
  */
 
 int _islower(int c)
