@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - Resets a pointer value
- * @*m: pointer parameter
+ * @m: a pointer parameter
  * Return: This code returns void
  */
 
