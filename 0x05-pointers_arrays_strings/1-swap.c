@@ -2,7 +2,8 @@
 
 /**
  * swap_int - Swaps the value of 2 integers
- * @m: a pointer parameter
+ * @a: a pointer parameter
+ * @b: a pointer parameter
  * Return: This code returns void
  */
 
