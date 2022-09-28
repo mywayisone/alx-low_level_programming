@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * puts_recursion - prints a string
- * 
+ * _puts_recursion - prints a string
+ *
  * @s: pointer parameter
  */
 
