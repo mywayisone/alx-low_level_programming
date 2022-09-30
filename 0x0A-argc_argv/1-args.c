@@ -2,13 +2,17 @@
 #include "main.h"
 
 /**
- * main - prints the number of arguments
+ * main - prints the program's number of parameters
  *
- * Return: return (0)
+ * @argc: number of parameters
+ *
+ * @argv: array of parameters
+ *
+ * Return: returns (0)
  */
 
-int main(argc, *argv[])
+int main(int argc, __attribute__((unused)) char *argv[])
 {
-	printf("%d\n", argc);
+	printf("%d\n",argc);
 	return (0);
 }
