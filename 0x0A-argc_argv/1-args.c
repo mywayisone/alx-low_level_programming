@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - prints the program's number of parameters
+ * main - prints the program's number of param
  *
  * @argc: number of parameters
  *
@@ -13,6 +13,6 @@
 
 int main(int argc, __attribute__((unused)) char *argv[])
 {
-	printf("%d\n",argc);
+	printf("%d\n",argc - 1);
 	return (0);
 }
