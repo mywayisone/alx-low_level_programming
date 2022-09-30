@@ -4,6 +4,10 @@
 /**
  * main - prints the program's name
  *
+ * @argc: number of parameters
+ *
+ * @argv: array of parameters
+ *
  * Return: returns (0)
  */
 
