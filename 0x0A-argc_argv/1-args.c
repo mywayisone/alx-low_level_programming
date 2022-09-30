@@ -1,15 +1,14 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
- * main - prints the program's number of param
+ * main - program that prints the number of arguments passed
  *
- * @argc: number of parameters
+ * @argc: holds the number of arguments passed
  *
- * @argv: array of parameters
+ * @argv: array poointer that holds the arguments passed
  *
- * Return: returns (0)
- */
+ * Return: Always 0 (Success)
+*/
 
 int main(int argc, __attribute__((unused)) char *argv[])
 {
