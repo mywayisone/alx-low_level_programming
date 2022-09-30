@@ -8,7 +8,7 @@
  *
  * @argv: array of parameters
  *
- * Return: returns (0)
+ * Return: Always 0 (Success)
  */
 
 int main(int __attribute__((unused)) argc, char *argv[])
